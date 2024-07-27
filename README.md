@@ -6,9 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m a DevOps student also trying hands on **ML**
+- 🔭 Fringale: Where affordability meets variety.
 
-- 📫 How to reach me **akshaykumarmohpal@gmail.com**
+
+- 📫 How to reach me **fringale.code@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akki07-code&show_icons=true&locale=en&layout=compact" alt="akki07-code" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akki07-code&show_icons=true&locale=en" alt="akki07-code" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fringale-app&show_icons=true&locale=en" alt="Fringale-App" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akki07-code&" alt="akki07-code" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fringale-app&" alt="Fringale-App" /></p>
